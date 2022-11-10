@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color:rgb(15, 15, 116);
+}
+
+form{
+    background-color: white;
+    width: 425px;
+    height: 550px;
+    margin-left: 35%;
+    margin-top: 70px;
+    box-shadow: 5px 5px 5px 4px;
+    border-radius: 20px;
+}
+
+label{
+    margin-top: 10px;
+    margin-left: 110px;
+    font-size: 14px;
+    display: block;
+}
+
+input{
+    margin-top: 10px;
+    margin-left: 110px;
+    width: 200px;
+    height: 25px;
+    font-size: 10px;
+    
+}
+
+
+.btn{
+    margin-top: 20px;
+    background-color: rgb(39, 143, 212);
+}
+.cuenta{
+    display: block;
+    margin-top: 20px;
+    margin-left: 150px;
+    
+}
